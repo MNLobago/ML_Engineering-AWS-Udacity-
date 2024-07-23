@@ -1,5 +1,3 @@
-This repository contains the projects and exercises for the "Machine Learning Engineering on AWS" course by Udacity.
-
 ## Project 2: MNIST Digits Classification
 
 ### Overview
